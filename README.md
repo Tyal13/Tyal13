@@ -30,6 +30,9 @@ If you find my projects useful, consider supporting their development:
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=flat-square&logo=github)](https://github.com/sponsors/Tyal13)
 [![Ko-fi](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Ko--fi-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/tyal13)
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adammherrmann)
+[![Blog](https://img.shields.io/badge/-Blog-333?style=flat-square&logo=github&logoColor=white)](https://tyal13.github.io)
+
 ---
 
 <p align="center">
