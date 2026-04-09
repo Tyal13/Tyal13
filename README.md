@@ -8,9 +8,9 @@ I run a homelab, automate everything I can, and contribute to open-source projec
 
 ### What I'm Working On
 
-- **[Rockbox Explicit Content Filter](https://github.com/Tyal13/rockbox-explicit-filter)** — Automated explicit content detection and filtering for Rockbox music players. Zero-config API lookups, database filtering, and theme integration.
-- **Homelab Infrastructure** — Proxmox cluster, self-hosted services, 3D-printed modular 10" rack build, migrating from a full-size server rack to compact and efficient.
-- **Cloud & Networking** — AWS, network architecture, infrastructure as code.
+- **[Rockbox Explicit Content Filter](https://github.com/Tyal13/rockbox-explicit-filter)**: Automated explicit content detection and filtering for Rockbox music players. Zero-config API lookups, database filtering, and theme integration.
+- **Homelab Infrastructure**: Proxmox cluster, self-hosted services, 3D-printed modular 10" rack build. Migrating from a full-size server rack to compact and efficient.
+- **Cloud & Networking**: AWS, network architecture, infrastructure as code.
 
 ### Tech & Tools
 
