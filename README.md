@@ -6,6 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00ff88)](https://tyal13.github.io/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/adammherrmann)
+[![Sponsor](https://img.shields.io/badge/sponsor-000000?style=for-the-badge&logo=githubsponsors&logoColor=ea4aaa)](https://github.com/sponsors/Tyal13)
 [![Ko-fi](https://img.shields.io/badge/ko--fi-000000?style=for-the-badge&logo=kofi&logoColor=ff5e5b)](https://ko-fi.com/tyal13)
 
 </div>

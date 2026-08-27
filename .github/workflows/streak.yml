@@ -18,7 +18,24 @@ jobs:
         run: |
           mkdir -p profile
           curl -sfL 'https://streak-stats.demolab.com?user=Tyal13&theme=transparent&hide_border=true&border_radius=8&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88' \
-            -o profile/streak.svg
+            -o profile/streak.svg.candidate
+
+      - name: Validate candidate and swap in
+        run: |
+          # Reject the streak-stats fallback SVG ("Failed to retrieve contributions...")
+          # so a bad API day never clobbers a good SVG.
+          if grep -q "Failed to retrieve" profile/streak.svg.candidate; then
+            echo "streak-stats returned the error fallback; keeping the previous SVG."
+            rm -f profile/streak.svg.candidate
+            exit 0
+          fi
+          # A healthy SVG contains the counter labels rendered around real numbers.
+          if ! grep -q "Total Contributions" profile/streak.svg.candidate; then
+            echo "candidate does not look like a streak SVG; keeping the previous one."
+            rm -f profile/streak.svg.candidate
+            exit 0
+          fi
+          mv profile/streak.svg.candidate profile/streak.svg
 
       - name: Commit if changed
         run: |
