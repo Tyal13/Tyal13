@@ -1,40 +1,64 @@
-# Hey, I'm Adam
+<div align="center">
 
-**Infrastructure & Cloud Engineer** building things that work.
+# Adam Herrmann
 
-I run a homelab, automate everything I can, and contribute to open-source projects in the music and infrastructure space. Currently focused on cloud infrastructure, networking, and building tools for communities I care about.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1800&color=00ff88&center=true&vCenter=true&width=600&lines=IT+%26+Cloud+Infrastructure+at+Project+E;Cloud+Architect+in+training;Homelab+%2B+local+LLM+tinkerer;Rockbox+hacker+on+iPod+Classic+7G" alt="Typing SVG" />
 
----
+[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00ff88)](https://tyal13.github.io/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/adammherrmann)
+[![Ko-fi](https://img.shields.io/badge/ko--fi-000000?style=for-the-badge&logo=kofi&logoColor=ff5e5b)](https://ko-fi.com/tyal13)
 
-### What I'm Working On
+</div>
 
-- **[Rockbox Explicit Content Filter](https://github.com/Tyal13/rockbox-explicit-filter)**: Automated explicit content detection and filtering for Rockbox music players. Zero-config API lookups, database filtering, and theme integration.
-- **Homelab Infrastructure**: Proxmox cluster, self-hosted services, 3D-printed modular 10" rack build. Migrating from a full-size server rack to compact and efficient.
-- **Cloud & Networking**: AWS, network architecture, infrastructure as code.
+<br>
 
-### Tech & Tools
+`> whoami`
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Networking](https://img.shields.io/badge/-Networking-0078D4?style=flat-square&logo=cisco&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+- IT & Cloud Infrastructure at **Project E**, since April 2026
+- **Certificate in Cloud Computing** from **BYU-Idaho** (awarded July 2026), continuing toward BS
+- **Idaho.** Homelab-forward.
+- Maintain the **Rockbox Explicit Content Filter** and hack on iPod Classic 7G firmware
+- Home lab: **Proxmox cluster + agent VMs + local LLMs**
 
-### Support My Work
+<br>
 
-If you find my projects useful, consider supporting their development:
+`> tech.stack`
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=flat-square&logo=github)](https://github.com/sponsors/Tyal13)
-[![Ko-fi](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Ko--fi-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/tyal13)
+<img src="https://skillicons.dev/icons?i=python,typescript,c,bash,linux,docker,aws,cloudflare,astro,git,github,vscode" />
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adammherrmann)
-[![Blog](https://img.shields.io/badge/-Blog-333?style=flat-square&logo=github&logoColor=white)](https://tyal13.github.io)
+<br>
 
----
+`> currently.working_on()`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tyal13&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
+```json
+{
+  "shipping":  "the IFC auto-publish pipeline at theprojecte.com",
+  "learning":  "Terraform + IaC patterns for BYUI Cloud Computing",
+  "building":  "a document-to-database pipeline at district scale",
+  "hacking":   "Rockbox on iPod Classic 7G"
+}
+```
+
+<br>
+
+`> pinned.projects`
+
+| Project | Description | Stack |
+|---|---|---|
+| [Rockbox Explicit Filter](https://github.com/Tyal13/rockbox-explicit-filter) | Automated explicit-content detection for Rockbox players. Zero-config API lookups, database filtering, theme integration. | `C` `Python` `Rockbox` |
+| [tyal13.github.io](https://github.com/Tyal13/tyal13.github.io) | Personal site + blog. Vanilla Jekyll, custom terminal aesthetic, mobile-fast. | `Jekyll` `SCSS` `JavaScript` |
+| [Homelab v2](https://github.com/Tyal13) | 3D-printed modular 10" rack running Proxmox + Docker + agent VMs + SIEM + backup. | `Proxmox` `Docker` `Ansible` |
+
+<br>
+
+`> github.stats`
+
+<div align="center">
+
+![Streak stats](./profile/streak.svg)
+
+</div>
+
+<br>
+
+<sub>Site: <a href="https://tyal13.github.io/">tyal13.github.io</a> &middot; LinkedIn: <a href="https://www.linkedin.com/in/adammherrmann">adammherrmann</a> &middot; Support: <a href="https://ko-fi.com/tyal13">Ko-fi</a></sub>
